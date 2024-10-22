@@ -1,20 +1,30 @@
+<div align="center">
+  <img height="150" src="https://imgur.com/a/GAhgb8I"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+###
+
 <h1 align="center">👋Hi There! I'm Rigi Yoga Sumarta!</h1>
 
 ###
 
-<p align="left">I am a student at the Faculty of Computer Science, majoring in Information Systems at UPN “Veteran” Jakarta. Currently, I am very interested in software development, especially in the front-end and I am currently learning JavaScript.</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">I am a student at the Faculty of Computer Science, majoring in Information Systems at UPN “Veteran” Jakarta. Currently, I am very interested in software development, especially in the front-end and I am currently learning JavaScript.<br><br>👨‍🎓 I'm an information system student of UPN "Veteran" Jakarta <br>✨Learning to code since entering college in 2023<br>📚 I'm currently learning Javascript for web developer<br>🎯 Goals: Front-end Developer</p>
 
 ###
 
-<p align="left">👨‍🎓 I'm an information system student of UPN "Veteran" Jakarta <br>✨Learning to code since entering college in 2023<br>📚 I'm currently learning Javascript for web developer<br>🎯 Goals: Front-end Developer</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
