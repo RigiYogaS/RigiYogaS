@@ -10,19 +10,23 @@
 
 ###
 
-<p align="left">📍 Quick Profile</p>
+<p align="left"><b>📍 Quick Profile</b></p>
 
 ###
 
-<p align="left">Institution: UPN "Veteran" Jakarta<br>Major: S1 Information Systems (Sistem Informasi)<br>Intake Year: 2023</p>
+<ul align="left">
+  <li>Institution: UPN "Veteran" Jakarta</li>
+  <li>Major: S1 Information Systems (Sistem Informasi)</li>
+  <li>Intake Year: 2023</li>
+</ul>
 
 ###
 
-<p align="left">🚀 Learning Trajectory</p>
+<p align="left"><b>🚀 Learning Trajectory</b></p>
 
 ###
 
-<p align="left">2024 => Focused primarily on mastering core web technologies (HTML, CSS, JavaScript) and modern UI/UX principles.<br><br>2025 => Starting to intensely focus my studies on advanced Software Engineering concepts, including design patterns, architecture, algorithms, and data structures.</p>
+<p align="left"><b>2024</b> => Focused primarily on mastering core web technologies (HTML, CSS, JavaScript) and modern UI/UX principles.<br><br> <b>2025 </b>=> Starting to intensely focus my studies on advanced Software Engineering concepts, including design patterns, architecture, algorithms, and data structures.</p>
 
 ###
 
@@ -107,11 +111,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="141" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
