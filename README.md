@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am a student at the Faculty of Computer Science, majoring in Information Systems at UPN “Veteran” Jakarta. Currently, I am very interested in software development, especially in the front-end<br><br>👨‍🎓 I'm an information system student of UPN "Veteran" Jakarta <br>✨Learning to code since entering college in 2023<br>📚 I'm currently learning lockedin at 2025 <br>🎯 Goals: Full Stack Developer</p>
+<p align="left">I am a student at the Faculty of Computer Science, majoring in Information Systems at UPN “Veteran” Jakarta. Currently, I am very interested in software development<br><br>👨‍🎓 I'm an information system student of UPN "Veteran" Jakarta <br>✨Learning to code since 2024<br>📚 I began locked in on software development in 2025</p>
 
 ###
 
