@@ -56,6 +56,7 @@ I'm an Information Systems student at **UPN "Veteran" Jakarta**, currently on a 
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" />
   <img src="https://cdn.simpleicons.org/notion/000000" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
 </div>
 
 ---
