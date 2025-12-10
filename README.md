@@ -5,7 +5,7 @@
 # 🌟 Hi, I'm Rigi Yoga!
 _Aspiring Software Engineer | Information Systems Student_
 
----
+
 
 ## 👨‍💻 About Me
 I'm an Information Systems student at **UPN "Veteran" Jakarta**, currently on a journey to become a proficient **Software Engineer**. I love building interfaces and learning both frontend & backend engineering.
@@ -14,7 +14,7 @@ I'm an Information Systems student at **UPN "Veteran" Jakarta**, currently on a 
 - 💻 **Major:** Information Systems (Sistem Informasi)  
 - 🗓️ **Intake Year:** 2023  
 
----
+
 
 ## 🚀 Learning Journey
 
@@ -22,7 +22,7 @@ I'm an Information Systems student at **UPN "Veteran" Jakarta**, currently on a 
 
 **2025:** Deep diving into Software Engineering fundamentals - **Design patterns • Architecture • Data structures • Algorithms**
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -59,7 +59,7 @@ I'm an Information Systems student at **UPN "Veteran" Jakarta**, currently on a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
 </div>
 
----
+
 
 ## 🌐 Find Me Online
 
