@@ -23,8 +23,7 @@ I'm an Information Systems student at **UPN "Veteran" Jakarta**, currently on a 
 **2025:** Deep diving into Software Engineering fundamentals - **Design patterns • Architecture • Data structures • Algorithms**
 
 
-
-## 🧰 Tech Stack
+##<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> &nbsp; Tech Stack &nbsp; 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
